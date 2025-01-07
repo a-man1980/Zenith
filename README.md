@@ -60,26 +60,6 @@ Zenith is an innovative AI-powered chat application leveraging the Gemini API. I
    ```
 
 ---
-
-## 🛠️ Project Structure
-
-```
-Zenith/
-├── public/          # Static assets
-├── src/
-│   ├── components/  # React components
-│   ├── hooks/       # Custom React hooks
-│   ├── utils/       # Utility functions
-│   ├── App.jsx      # Main application file
-│   └── main.jsx     # Entry point
-├── .env             # Environment variables
-├── vite.config.js   # Vite configuration file
-├── package.json     # Project metadata and dependencies
-└── README.md        # Project documentation
-```
-
----
-
 ## ✨ Key Highlights
 
 - **Dynamic User Interface**: Zenith's visually appealing and responsive interface ensures an exceptional user experience.
@@ -89,16 +69,9 @@ Zenith/
 
 ---
 
-## 📸 Screenshots
+## 📸Demo:
 
-### Home Screen
-![Home Screen](https://via.placeholder.com/800x400.png?text=Zenith+Home+Screen)
-
-### Recent Chats
-![Recent Chats](https://via.placeholder.com/800x400.png?text=Recent+Chats)
-
-### Typing Effect
-![Typing Effect](https://via.placeholder.com/800x400.png?text=Typing+Effect)
+https://github.com/user-attachments/assets/c4532746-96e3-4764-86d3-83555edab8b0
 
 ---
 
@@ -126,27 +99,4 @@ Contributions are welcome! Follow these steps to contribute:
    git push origin feature-name
    ```
 5. Create a pull request.
-
 ---
-
-## 🛡️ License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
----
-
-## 💬 Feedback
-
-We'd love to hear your thoughts and suggestions! Feel free to open an issue or contact us directly at `your-email@example.com`.
-
----
-
-## 🙌 Acknowledgments
-
-- Special thanks to the creators of the Gemini API for providing such an excellent service.
-- Inspired by modern conversational AI platforms.
-- Built with ❤️ using ReactJS and ViteJS.
-
----
-
-Transform the way you interact with AI. Experience **Zenith** today!
